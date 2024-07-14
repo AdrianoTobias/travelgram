@@ -6,7 +6,7 @@
 
 ## 💻 Projeto
 
-**[Travelgram](https://adrianotobias.github.io/fullstack-projeto-pagina-receita/)**, é uma página de "perfil de viagens", desenvolvida durante o **[MBA Fullstack](https://www.rocketseat.com.br/mba)**, provido pela **[Rocketseat](https://rocketseat.com.br/)**, em parceria com a **[Sirius Education](https://landing.sirius.education/home/)**.
+**[Travelgram](https://adrianotobias.github.io/travelgram/)**, é uma página de "perfil de viagens", desenvolvida durante o **[MBA Fullstack](https://www.rocketseat.com.br/mba)**, provido pela **[Rocketseat](https://rocketseat.com.br/)**, em parceria com a **[Sirius Education](https://landing.sirius.education/home/)**.
 
 
 ## 🧪 Tecnologias
